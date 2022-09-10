@@ -1,13 +1,16 @@
- /* NAVBAR  */
-.nav-link {
-    color:white;
-    transition:all 0.5s;
-}
-.nav-link:hover{
-    color:red;
-}
-
-
+  
+  /*! NAVBAR */
+  .collapse a {
+    color: white;
+    transition: all 0.5s;
+  }
+  .collapse a:hover {
+    color: red;
+  }
+  /* <!-- CAROUSEL --> */
+  .carousel-item {
+    max-height: calc(100vh - 10px);
+  }
 
 
 

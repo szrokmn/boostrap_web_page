@@ -1,8 +1,11 @@
  /* NAVBAR  */
 .nav-link {
     color:white;
+    transition:all 0.5s;
 }
-
+.nav-link:hover{
+    color:red;
+}
 
 
 
